@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about webDev
-- ⚡ Fun fact: I love shipping and Building Complex Apps at 
-
+- ⚡ Fun fact: I love shipping and Building Complex Apps at SF
 
 
 
