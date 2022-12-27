@@ -1,15 +1,11 @@
 # Hi there, I'm Deepu - 👋 
 
-
 ## I'm a Engineer at SF !!!
 
--
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about webDev
 - ⚡ Fun fact: I love shipping and Building Complex Apps at SF
-
-
 
 ### Languages and Tools:
 
