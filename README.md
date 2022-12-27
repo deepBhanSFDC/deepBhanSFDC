@@ -1,13 +1,13 @@
 # Hi there, I'm Deepu - 👋 
 
 
-## I'm a Father, Developer, & Teacher!!
+## I'm a Engineer at SF !!!
 
 -
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about webDev
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I like Apex more than Java
 
 
 
