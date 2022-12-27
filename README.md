@@ -1,6 +1,6 @@
 # Hi there, I'm Deepu - 👋 
 
-## I'm a Engineer at SF !!!
+## I'm Engineer at SF !!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
